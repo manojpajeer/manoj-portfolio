@@ -10882,6 +10882,7 @@ h5,
     z-index: 0;
   }
 }
+
 .owl-carousel.home-slider .slider-item .slider-text .one-forth {
   width: 30%;
   position: relative;
@@ -10913,8 +10914,9 @@ h5,
 }
 @media (max-width: 991.98px) {
   .owl-carousel.home-slider .slider-item .slider-text .text {
-    background: rgba(255, 255, 255, 0.3);
-    padding: 2em;
+    background: rgba(255, 255, 255, 0.6);
+    padding-top: 2em;
+    padding-bottom: 2em;
   }
 }
 .owl-carousel.home-slider .slider-item .slider-text h1 {
